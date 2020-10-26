@@ -4,7 +4,7 @@ I'm <a href="https://www.minhdnguyen.com/">Minh Nguyen</a>, software developer.
 <details>
 <summary>📈 My GitHub Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=minhd-nguyen&show_icons=true&theme=gotham" alt="minhnguyen" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=minhd-nguyen&show_icons=true&theme=blue-green" alt="minhnguyen" />
 
 </details>
 
@@ -14,7 +14,7 @@ I'm <a href="https://www.minhdnguyen.com/">Minh Nguyen</a>, software developer.
 - 🌱 I’m currently learning React, Redux
 - 💬 Ask me about anything related to Javascript/React/Express/Node/Next
 - 📫 How to reach me: [@nguyendm77](https://twitter.com/nguyendm77)
-- ⚡ Fun fact: I'm scared of 🐈
+- ⚡ Fun fact: wine tasty🍷.
 
 
 
