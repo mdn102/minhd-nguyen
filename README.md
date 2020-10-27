@@ -69,10 +69,9 @@ I'm <a href="https://www.minhdnguyen.com/">Minh Nguyen</a>, software developer.
 
 <p  align="center">
 <a href= "https://www.minhdnguyen.com/"><img src="https://img.icons8.com/fluent/48/000000/domain.png"/></a>
-<a href='mailto://nguyendm77@gmail.com'><img src="https://img.icons8.com/nolan/64/email.png"/></a>
+<a href='mailto://nguyendm77@gmail.com'><img src="https://img.icons8.com/fluent/48/000000/email.png"/></a>
 <a href= "https://www.linkedin.com/in/minhd-nguyen/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href= "https://github.com/minhd-nguyen"><img src="https://img.icons8.com/nolan/64/github.png"/></a>
-<a href= "https://twitter.com/nguyendm77"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href='https://drive.google.com/file/d/1VE589JezDgMvPWzAMWwjkarepHk0NxXg/view?usp=sharing'><img src="https://img.icons8.com/nolan/64/submit-resume.png"/></a>
+<a href= "https://github.com/minhd-nguyen"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
+<a href= "https://twitter.com/nguyendm77"><img src="https://img.icons8.com/color/48/000000/twitter-circled.png"/></a>
 </p>
 
