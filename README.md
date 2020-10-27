@@ -73,9 +73,9 @@ I'm <a href="https://www.minhdnguyen.com/">Minh Nguyen</a>, software developer.
 <a href= "https://dev.to/nguyendm77"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
 <a href= "https://twitter.com/nguyendm77"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a> -->
 
-[<img src='https://image.flaticon.com/icons/svg/2965/2965306.svg' width='32' title='Email Me!'>](mailto://nguyendm77@gmail.com)
-[<img src='https://image.flaticon.com/icons/svg/1409/1409945.svg' width='32' title='Message Me!'>](https://www.linkedin.com/in/minhd-nguyen/)
-[<img src='https://image.flaticon.com/icons/svg/1409/1409937.svg' width='32' title='DM Me!'>](https://twitter.com/nguyendm77)
+<a href='mailto://nguyendm77@gmail.com'><img src='https://image.flaticon.com/icons/svg/2965/2965306.svg' width='32' title='Email Me!' /></a>
+<a href='https://www.linkedin.com/in/minhd-nguyen/'><img src='https://image.flaticon.com/icons/svg/1409/1409945.svg' width='32' title='Message Me!' /></a>
+<a href='https://twitter.com/nguyendm77'><img src='https://image.flaticon.com/icons/svg/1409/1409937.svg' width='32' title='DM Me!' /></a>
 
 </p>
 
