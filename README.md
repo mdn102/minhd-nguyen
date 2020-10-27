@@ -50,7 +50,6 @@ I'm <a href="https://www.minhdnguyen.com/">Minh Nguyen</a>, software developer.
   <img src='https://img.stackshare.io/service/7618/bHjpwZem_400x400.png' width='32' title='Vercel'>
   <img src='https://img.stackshare.io/service/1171/jCR2zNJV.png' width='32' title='Sass'>
   <img src='https://img.stackshare.io/service/1161/vI0ZZlhZ_400x400.png' width='32' title='Socket.IO'>
-  <img src='https://img.stackshare.io/service/683/sBsvBbjY.png' width='32' title='Github Pages'>
   <img src='https://img.stackshare.io/service/1046/git.png' width='32' title='Git'>
   <img src='https://img.stackshare.io/service/64/cU74ahCn_400x400.jpg' width='32' title='Google Analytics'>
   <img src='https://img.stackshare.io/service/3244/1_Mr1Fy00XjPGNf1Kkp_hWtw_2x.png' width='32' title='Font Awesome'>
