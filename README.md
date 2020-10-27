@@ -58,24 +58,21 @@ I'm <a href="https://www.minhdnguyen.com/">Minh Nguyen</a>, software developer.
 
 [![minhnguyen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=minhnguyen)](https://github.com/minhd-nguyen/github-readme-stats)
 
-<a href="https://github.com/minhd-nguyen/github-readme-stats">
+<!-- <a href="https://github.com/minhd-nguyen/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=minhd-nguyen&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/minhd-nguyen/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=minhd-nguyen&repo=convoychat" />
-</a>
+</a> -->
 
 ---
 
 <p  align="center">
-<!-- <a href= "https://www.minhdnguyen.com/"><img src="https://img.icons8.com/material-outlined/26/000000/ball-point-pen.png"/></a>
-<a href= "https://www.linkedin.com/in/minhd-nguyen/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
-<a href= "https://dev.to/nguyendm77"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
-<a href= "https://twitter.com/nguyendm77"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a> -->
-
-<a href='mailto://nguyendm77@gmail.com'><img src='https://image.flaticon.com/icons/svg/2965/2965306.svg' /></a>
-<a href='https://www.linkedin.com/in/minhd-nguyen/'><img src='https://image.flaticon.com/icons/svg/1409/1409945.svg' /></a>
-<a href='https://twitter.com/nguyendm77'><img src='https://image.flaticon.com/icons/svg/1409/1409937.svg' /></a>
-
+<a href= "https://www.minhdnguyen.com/"><img src="https://img.icons8.com/fluent/48/000000/domain.png"/></a>
+<a href='mailto://nguyendm77@gmail.com'><img src="https://img.icons8.com/nolan/64/email.png"/></a>
+<a href= "https://www.linkedin.com/in/minhd-nguyen/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href= "https://github.com/minhd-nguyen"><img src="https://img.icons8.com/nolan/64/github.png"/></a>
+<a href= "https://twitter.com/nguyendm77"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href='https://drive.google.com/file/d/1VE589JezDgMvPWzAMWwjkarepHk0NxXg/view?usp=sharing'><img src="https://img.icons8.com/nolan/64/submit-resume.png"/></a>
 </p>
 
