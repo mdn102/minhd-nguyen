@@ -4,7 +4,7 @@ I'm <a href="https://www.minhdnguyen.com/">Minh Nguyen</a>, software developer.
 <details>
 <summary>📈 My GitHub Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=minhd-nguyen&show_icons=true&theme=blue-green" alt="minhnguyen" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=minhd-nguyen&show_icons=true&theme=highcontrast" alt="minhnguyen" />
 
 </details>
 
@@ -61,8 +61,9 @@ I'm <a href="https://www.minhdnguyen.com/">Minh Nguyen</a>, software developer.
 
 <!-- [![Minhnguyen's github stats](https://github-readme-stats.vercel.app/api?username=minhd-nguyen&show_icons=true&theme=radical&hide=stars)](https://github.com/minhd-nguyen/) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhd-nguyen&layout=compact&card_width=445)](https://github.com/minhnd-nguyen/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=minhd-nguyen&repo=github-readme-stats)](https://github.com/minhd-nguyen/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhd-nguyen&layout=compact&card_width=445)](https://github.com/minhnd-nguyen/github-readme-stats)
 
 
 ---
