@@ -22,18 +22,17 @@ I'm <a href="https://www.minhdnguyen.com/">Minh Nguyen</a>, software developer.
 ### Language:
 
 <p>
-  <img src='https://img.stackshare.io/service/1209/javascript.jpeg' width='32' title='JavaScript'>
-  
   <img src='https://img.stackshare.io/service/2538/kEpgHiC9.png' width='32' title='HTML'>
   <img src='https://img.stackshare.io/service/6727/css.png' width='32' title='CSS'>
-  <img src='https://img.stackshare.io/service/993/pUBY5pVj.png' width='32' title='Python'>
-  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
-  <img src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' width='32' title='React'>
+  <img src='https://img.stackshare.io/service/1209/javascript.jpeg' width='32' title='JavaScript'>
   <img src='https://img.stackshare.io/service/1163/hashtag.png' width='32' title='ExpressJS'>
+  <img src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' width='32' title='React'>
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
   <img src='https://img.stackshare.io/service/1030/leaf-360x360.png' width='32' title='MongoDB'>
   <img src='https://img.stackshare.io/service/1231/0TXzZU7W_400x400.jpg' width='32' title='Mongoose'>
   <img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png">
   <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
+  <img src='https://img.stackshare.io/service/993/pUBY5pVj.png' width='32' title='Python'>
 </p>
 
 
