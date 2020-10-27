@@ -63,7 +63,7 @@ I'm <a href="https://www.minhdnguyen.com/">Minh Nguyen</a>, software developer.
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=minhd-nguyen&repo=github-readme-stats)](https://github.com/minhd-nguyen/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhd-nguyen&layout=compact&card_width=445)](https://github.com/minhnd-nguyen/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhd-nguyen&layout=compact)](https://github.com/minhnd-nguyen/github-readme-stats)
 
 
 ---
