@@ -65,6 +65,14 @@ I'm <a href="https://www.minhdnguyen.com/">Minh Nguyen</a>, software developer.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhd-nguyen&layout=compact)](https://github.com/minhnd-nguyen/github-readme-stats)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=minhnguyen)](https://github.com/minhd-nguyen/github-readme-stats)
+
+<a href="https://github.com/minhd-nguyen/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=minhd-nguyen&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/minhd-nguyen/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=minhd-nguyen&repo=convoychat" />
+</a>
 
 ---
 
