@@ -104,12 +104,9 @@ I'm <a href="https://www.minhdnguyen.com/">Minh Nguyen</a>, a senior hardware co
 </a> -->
 
 
-<h3>Connect with me:</h3>
-
-<p align="center"><img alt="Stars" src="https://img.shields.io/github/stars/minhd-nguyen/minhd-nguyen?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/minhd-nguyen/minhd-nguyen?style=flat-square&labelColor=343b41"/> 
+<p><img alt="Stars" src="https://img.shields.io/github/stars/minhd-nguyen/minhd-nguyen?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/minhd-nguyen/minhd-nguyen?style=flat-square&labelColor=343b41"/> 
 <a href="https://github.com/minhd-nguyen/github-readme-stats/issues"><img alt="Issues" src="https://img.shields.io/github/issues/minhd-nguyen/github-readme-stats?color=0088ff" /></a> 
-<a href="https://github.com/minhd-nguyen/github-readme-stats/pulls"><img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/minhd-nguyen/github-readme-stats?color=0088ff" /></a>
-</p>
+<a href="https://github.com/minhd-nguyen/github-readme-stats/pulls"><img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/minhd-nguyen/github-readme-stats?color=0088ff" /></a></p>
 
 
 ---
