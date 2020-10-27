@@ -1,20 +1,11 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, 
 I'm <a href="https://www.minhdnguyen.com/">Minh Nguyen</a>, software developer. 
 - 📝 [Resume](https://drive.google.com/file/d/1VE589JezDgMvPWzAMWwjkarepHk0NxXg/view)
+
 <details>
 <summary>📈 My GitHub Stats</summary>
-
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=minhd-nguyen&show_icons=true&theme=highcontrast" alt="minhnguyen" />
-
 </details>
-
-
-
-- 🔭 I’m currently working on something cool :wink:
-- 🌱 I’m currently learning GraphQL, D3, Vue
-- 💬 Ask me about anything related to Javascript/React/Express/Node/Next
-- 📫 How to reach me: [@nguyendm77](https://twitter.com/nguyendm77)
-- ⚡ Fun fact: wine tasty🍷.
 
 
 
@@ -77,8 +68,14 @@ I'm <a href="https://www.minhdnguyen.com/">Minh Nguyen</a>, software developer.
 ---
 
 <p  align="center">
-<a href= "https://www.minhdnguyen.com/"><img src="https://img.icons8.com/material-outlined/26/000000/ball-point-pen.png"/></a>
+<!-- <a href= "https://www.minhdnguyen.com/"><img src="https://img.icons8.com/material-outlined/26/000000/ball-point-pen.png"/></a>
 <a href= "https://www.linkedin.com/in/minhd-nguyen/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
 <a href= "https://dev.to/nguyendm77"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
-<a href= "https://twitter.com/nguyendm77"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
+<a href= "https://twitter.com/nguyendm77"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a> -->
+
+[<img src='https://image.flaticon.com/icons/svg/2965/2965306.svg' width='32' title='Email Me!'>](mailto://nguyendm77@gmail.com)
+[<img src='https://image.flaticon.com/icons/svg/1409/1409945.svg' width='32' title='Message Me!'>](https://www.linkedin.com/in/minhd-nguyen/)
+[<img src='https://image.flaticon.com/icons/svg/1409/1409937.svg' width='32' title='DM Me!'>](https://twitter.com/nguyendm77)
+
 </p>
+
