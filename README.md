@@ -105,11 +105,10 @@ I'm <a href="https://www.minhdnguyen.com/">Minh Nguyen</a>, a senior hardware co
 
 
 <h3>Connect with me:</h3>
-<p>
-<a href="https://github.com/minhd-nguyen" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-<a href="https://twitter.com/Guibz16" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
-<a href="https://www.linkedin.com/in/nguyendm77" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-<a href="https://drive.google.com/file/d/1VE589JezDgMvPWzAMWwjkarepHk0NxXg/view" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+
+<p align="center"><img alt="Stars" src="https://img.shields.io/github/stars/minhd-nguyen/minhd-nguyen?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/minhd-nguyen/minhd-nguyen?style=flat-square&labelColor=343b41"/> 
+<a href="https://github.com/minhd-nguyen/github-readme-stats/issues"><img alt="Issues" src="https://img.shields.io/github/issues/minhd-nguyen/github-readme-stats?color=0088ff" /></a> 
+<a href="https://github.com/minhd-nguyen/github-readme-stats/pulls"><img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/minhd-nguyen/github-readme-stats?color=0088ff" /></a>
 </p>
 
 
@@ -127,24 +126,11 @@ I'm <a href="https://www.minhdnguyen.com/">Minh Nguyen</a>, a senior hardware co
 
 <p align="center"><a href= "https://www.minhdnguyen.com/">Thanks for reaching to me!</a></p>
 
-<p align="center"><img alt="Stars" src="https://img.shields.io/github/stars/minhd-nguyen/minhd-nguyen?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/minhd-nguyen/minhd-nguyen?style=flat-square&labelColor=343b41"/> 
-<a href="https://github.com/minhd-nguyen/github-readme-stats/issues"><img alt="Issues" src="https://img.shields.io/github/issues/minhd-nguyen/github-readme-stats?color=0088ff" /></a> 
-<a href="https://github.com/minhd-nguyen/github-readme-stats/pulls"><img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/minhd-nguyen/github-readme-stats?color=0088ff" /></a>
+<p align="center">
+<a href="https://github.com/minhd-nguyen" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+<a href="https://twitter.com/Guibz16" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
+<a href="https://www.linkedin.com/in/nguyendm77" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="https://drive.google.com/file/d/1VE589JezDgMvPWzAMWwjkarepHk0NxXg/view" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
-<!-- <p align="center">
-    <a href="https://github.com/minhd-nguyen/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/minhd-nguyen/github-readme-stats/workflows/Test/badge.svg" />
-    </a>
-    <a href="https://codecov.io/gh/minhd-nguyen/github-readme-stats">
-      <img src="https://codecov.io/gh/minhd-nguyen/github-readme-stats/branch/master/graph/badge.svg" />
-    </a>
-    <br />
-    <br />
-    <a href="https://a.paddle.com/v2/click/16413/119403?link=1227">
-      <img src="https://img.shields.io/badge/Supported%20by-VSCode%20Power%20User%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
-    </a>
-    <a href="https://a.paddle.com/v2/click/16413/119403?link=2345">
-      <img src="https://img.shields.io/badge/Supported%20by-Node%20Cli.com%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
-    </a>
-  </p> -->
+
