@@ -1,11 +1,15 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, thanks for reaching out to me.
+### Hi there, nice to meet you <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> .
+
 I'm <a href="https://www.minhdnguyen.com/">Minh Nguyen</a>, a hardware guy who is switching my career to software developer. 
-- 📝 [Resume](https://drive.google.com/file/d/1VE589JezDgMvPWzAMWwjkarepHk0NxXg/view)
+- 📝 [My Resume](https://drive.google.com/file/d/1VE589JezDgMvPWzAMWwjkarepHk0NxXg/view)
 
 <!-- <details>
 <summary>📈 My GitHub Stats</summary>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=minhd-nguyen&show_icons=true&theme=highcontrast" alt="minhnguyen" />
 </details> -->
+
+
+<hr>
 
 
 ### I am familiar with: 
@@ -76,8 +80,8 @@ I'm <a href="https://www.minhdnguyen.com/">Minh Nguyen</a>, a hardware guy who i
 </p> -->
 
 
+<hr>
 
-<!-- <hr> -->
 
 <!-- [![Minhnguyen's github stats](https://github-readme-stats.vercel.app/api?username=minhd-nguyen&show_icons=true&theme=radical&hide=stars)](https://github.com/minhd-nguyen/) -->
 
@@ -99,8 +103,10 @@ I'm <a href="https://www.minhdnguyen.com/">Minh Nguyen</a>, a hardware guy who i
 </a> -->
 
 
+<hr>
 
-<h3>Where to reach me</h3>
+
+<h3>Connect with me:</h3>
 <p><a href="https://github.com/minhd-nguyen" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Guibz16" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/nguyendm77" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@nguyendm77" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
@@ -115,6 +121,9 @@ I'm <a href="https://www.minhdnguyen.com/">Minh Nguyen</a>, a hardware guy who i
 <a href= "https://github.com/minhd-nguyen"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
 <a href= "https://twitter.com/nguyendm77"><img src="https://img.icons8.com/color/48/000000/twitter-circled.png"/></a>
 </p> -->
+
+
+<p align="center">This <i>README</i> file is generated <b>every week</b>!</br>Last refresh: Monday, 26 October, 07:00 PST<br /><a href= "https://www.minhdnguyen.com/">Thanks for reaching to me!</a></p>
 
 <p align="center"><img src="https://github.com/minhd-nguyen/minhd-nguyen/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/minhd-nguyen/minhd-nguyen?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/minhd-nguyen/minhd-nguyen?style=flat-square&labelColor=343b41"/></p>
 
