@@ -6,14 +6,14 @@ I'm <a href="https://www.minhdnguyen.com/">Minh Nguyen</a>, a senior hardware co
 
 
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/minhd-nguyen?tab=followers">
     <img src="https://img.shields.io/github/followers/minhd-nguyen?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
   <a href="http://twitter.com/arpancodes">
     <img src="https://img.shields.io/twitter/follow/nguyendm77?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
-</p>
+</p> -->
 
 
 
