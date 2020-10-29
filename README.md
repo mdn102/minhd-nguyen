@@ -111,15 +111,14 @@ I'm <a href="https://www.minhdnguyen.com/">Minh Nguyen</a>, a senior hardware co
 
 <p><img alt="Stars" src="https://img.shields.io/github/stars/minhd-nguyen/minhd-nguyen?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/minhd-nguyen/minhd-nguyen?style=flat-square&labelColor=343b41"/> 
 <a href="https://github.com/minhd-nguyen/github-readme-stats/issues"><img alt="Issues" src="https://img.shields.io/github/issues/minhd-nguyen/github-readme-stats?color=0088ff" /></a> 
-<a href="https://github.com/minhd-nguyen/github-readme-stats/pulls"><img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/minhd-nguyen/github-readme-stats?color=0088ff" /></a></p>
+<a href="https://github.com/minhd-nguyen/github-readme-stats/pulls"><img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/minhd-nguyen/github-readme-stats?color=0088ff" /></a>
 
-
-
-[<img align="right" src="https://github.com/actions/setup-dotnet/workflows/Main%20workflow/badge.svg" alt="Build README">][build]
+[<img alt="Workflow" src="https://github.com/actions/setup-dotnet/workflows/Main%20workflow/badge.svg" >][build]
 
 [build]: https://github.com/minhd-nguyen/minhnd-nguyen/workflows/Build%20README/badge.svg
 [aurthohin]: https://github.com/minhd-nguyen/Aurthohin
 
+</p>
 
 
 ---
