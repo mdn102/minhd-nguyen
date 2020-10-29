@@ -114,6 +114,14 @@ I'm <a href="https://www.minhdnguyen.com/">Minh Nguyen</a>, a senior hardware co
 <a href="https://github.com/minhd-nguyen/github-readme-stats/pulls"><img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/minhd-nguyen/github-readme-stats?color=0088ff" /></a></p>
 
 
+
+[<img align="right" src="https://github.com/actions/setup-dotnet/workflows/Main%20workflow/badge.svg" alt="Build README">][build]
+
+[build]: https://github.com/minhd-nguyen/minhnd-nguyen/workflows/Build%20README/badge.svg
+[aurthohin]: https://github.com/minhd-nguyen/Aurthohin
+
+
+
 ---
 
 
@@ -135,7 +143,4 @@ I'm <a href="https://www.minhdnguyen.com/">Minh Nguyen</a>, a senior hardware co
 <a href="https://drive.google.com/file/d/1VE589JezDgMvPWzAMWwjkarepHk0NxXg/view" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
-[<img align="right" src="https://github.com/actions/setup-dotnet/workflows/Main%20workflow/badge.svg" alt="Build README">][build]
 
-[build]: https://github.com/minhd-nguyen/minhnd-nguyen/workflows/Build%20README/badge.svg
-[aurthohin]: https://github.com/minhd-nguyen/Aurthohin
