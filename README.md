@@ -1,4 +1,4 @@
-# MinhNguyen Github Profile
+<!-- # MinhNguyen Github Profile -->
 
 ## Hi there, nice to meet you <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> .
 
@@ -91,7 +91,7 @@ I'm <a href="https://www.minhdnguyen.com/">Minh Nguyen</a>, a senior hardware co
 <!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=minhd-nguyen&repo=github-readme-stats)](https://github.com/minhd-nguyen/github-readme-stats) -->
 
 
-![MinhNguyen's github stats](https://github-readme-stats.vercel.app/api?username=minhd-nguyen&show_icons=true&theme=highcontrast)
+![MinhNguyen's Github Stats](https://github-readme-stats.vercel.app/api?username=minhd-nguyen&show_icons=true&theme=highcontrast)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhd-nguyen&layout=compact)](https://github.com/minhnd-nguyen/github-readme-stats)
